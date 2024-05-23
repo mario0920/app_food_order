@@ -1,0 +1,29 @@
+[
+    {
+
+        "name": "salad",
+        "price": {
+            "amount":20,
+            "currency": "MDL"
+        },
+        "avail": 1
+    },
+
+    {
+        "name": "soup",
+        "price": {
+            "amount": 45,
+            "currency": "MDL"
+        },
+        "avail": 2
+    },
+    
+    {
+        "name": "bread",
+        "price": {
+            "amount":0.5,
+            "currency":"MDL"
+        },
+        "avail": 3
+    }
+]
